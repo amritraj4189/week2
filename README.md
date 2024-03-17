@@ -1,1 +1,1 @@
-# week2
+This is a solution to assignment.
